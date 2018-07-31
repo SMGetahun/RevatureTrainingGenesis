@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\0RevatureJavaLectures\Java_development\WEEK-1\07-31-2018\excersices\bin"/>
 		<item value="C:\0RevatureJavaLectures\Java_development\WEEK-1\07-31-2018\dataTypes"/>
 	</list>
 	<list key="installedFeatures">
@@ -107,4 +108,6 @@
 		<item value="org.springsource.sts.package:3.9.5.201807031753-RELEASE-e48"/>
 		<item value="org.springsource.sts:3.9.5.201807031753-RELEASE"/>
 	</list>
+	<section name="NewWizardAction">
+	</section>
 </section>
